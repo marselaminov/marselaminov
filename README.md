@@ -28,6 +28,12 @@ Here are some ideas to get you started:
 # Philosophers - multithreading
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/Philosophers)](https://github.com/marselaminov/philosophers)
 
+# Services - clusturing an docker-compose application whose deploy it with Kubernetes
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/ft_services)](https://github.com/marselaminov/ft_services)
+
+# Server - Installation docker to create server with Nginx, Mysql and Wordpress
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/ft_server)](https://github.com/marselaminov/ft_server)
+
 # Cub3D - Wolfenstein 3D
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/cub3d)](https://github.com/marselaminov/cub3D)
 
