@@ -28,4 +28,5 @@ Here are some ideas to get you started:
 # Philosophers - multithreading
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/Philosophers)](https://github.com/marselaminov/philosophers)
 
-# CPP - learning C++ https://github.com/marselaminov/CPP
+# CPP - learning C++ 
+https://github.com/marselaminov/CPP
