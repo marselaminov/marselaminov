@@ -1,6 +1,4 @@
-### Hello, I'm Marsel!  👋 
-### Welcome to my github account!
-#### I'm student of Programming School 21 (L'École 42)
+### Hello, I'm Marsel!  👋 ### Welcome to my github account! ### I'm student of Programming School 21 (L'École 42)
 
 <!--
 **marselaminov/marselaminov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
