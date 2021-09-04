@@ -1,5 +1,5 @@
 ### Hello, I'm Marsel!  👋 
-# Welcome to my github account!
+### Welcome to my github account!
 
 <!--
 **marselaminov/marselaminov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,30 +23,33 @@ Here are some ideas to get you started:
 
 # Projects:
 
-# Minishell - simple version of shell
+## Minishell - simple version of shell
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/minishell)](https://github.com/marselaminov/minishell)
 
-# Philosophers - multithreading
+## Philosophers - multithreading
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/Philosophers)](https://github.com/marselaminov/philosophers)
 
-# Services - clusturing an docker-compose application whose deploy it with Kubernetes
+## Services - clusturing an docker-compose application whose deploy it with Kubernetes
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/ft_services)](https://github.com/marselaminov/ft_services)
 
-# Server - Installation docker to create server with Nginx, Mysql and Wordpress
+## Server - Installation docker to create server with Nginx, Mysql and Wordpress
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/ft_server)](https://github.com/marselaminov/ft_server)
 
-# Cub3D - Wolfenstein 3D
+## Cub3D - Wolfenstein 3D
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/cub3d)](https://github.com/marselaminov/cub3D)
 
-# Printf - implementation of my own "printf"
+## Libasm - learning assembly
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/libasm)](https://github.com/marselaminov/libasm)
+
+## Printf - implementation of my own "printf"
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/ft_printf)](https://github.com/marselaminov/ft_printf)
 
-# GNL - implementation of my own "getline"
+## GNL - implementation of my own "getline"
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/get_next_line)](https://github.com/marselaminov/get_next_line)
 
-# Libft - own library with most popular functions
+## Libft - own library with most popular functions
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/Libft)](https://github.com/marselaminov/libft)
 
-# CPP - learning C++
+## CPP - learning C++
 https://github.com/marselaminov/CPP
 
