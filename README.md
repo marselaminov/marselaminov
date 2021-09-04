@@ -23,5 +23,8 @@ Here are some ideas to get you started:
 # Minishell - simple version of shell
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/minishell)](https://github.com/marselaminov/minishell)
 
+# Philosophers - multithreading
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/Philosophers)](https://github.com/marselaminov/philosophers)
+
 # CPP - learning C++
 (https://github.com/marselaminov/CPP)
