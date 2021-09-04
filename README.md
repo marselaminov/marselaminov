@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 # Cub3D - Wolfenstein 3D
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/cub3d)](https://github.com/marselaminov/cub3D)
 
+# GNL - implementation of my own "getline"
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/get_next_line)](https://github.com/marselaminov/get_next_line)
+
 # CPP - learning C++ 
 https://github.com/marselaminov/CPP
 
