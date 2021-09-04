@@ -31,8 +31,14 @@ Here are some ideas to get you started:
 # Cub3D - Wolfenstein 3D
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/cub3d)](https://github.com/marselaminov/cub3D)
 
+# Printf - implementation of my own "printf"
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/ft_printf)](https://github.com/marselaminov/ft_printf)
+
 # GNL - implementation of my own "getline"
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/get_next_line)](https://github.com/marselaminov/get_next_line)
+
+# Libft - own library with most popular functian
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/libft)](https://github.com/marselaminov/Libft)
 
 # CPP - learning C++
 https://github.com/marselaminov/CPP
