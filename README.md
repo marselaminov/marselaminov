@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/minishell)](https://github.com/marselaminov/minishell)
 
 # CPP - learning C++
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/CPP Module 00)](https://github.com/marselaminov/CPP)
+(https://github.com/marselaminov/CPP)
