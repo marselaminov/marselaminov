@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 # GNL - implementation of my own "getline"
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/get_next_line)](https://github.com/marselaminov/get_next_line)
 
-# Libft - own library with most popular functian
+# Libft - own library with most popular functions
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/Libft)](https://github.com/marselaminov/libft)
 
 # CPP - learning C++
