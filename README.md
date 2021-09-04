@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/get_next_line)](https://github.com/marselaminov/get_next_line)
 
 # CPP - learning C++
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/CPP_Module_00)](https://github.com/marselaminov/CPP)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/CPP)](https://github.com/marselaminov/CPP)
 https://github.com/marselaminov/CPP
 
