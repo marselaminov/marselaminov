@@ -58,8 +58,13 @@ Here are some ideas to get you started:
   
 </details>
   
-  details summary::-webkit-details-marker {
-    background: red;
-    color: #fff;
-    font-size: 500%;
+  var div = document.getElementById('thing');
+
+// replace text in HTML string:
+div.innerHTML = div.innerHTML.replace('texttochangehere','changedtext');
+
+// manipulating text node:
+for(var node of div.childNodes){
+    if(node.nodeType == 3 && node.textContent == 'texttochangehere')
+        node.textContent = 'changedtext';
 }
