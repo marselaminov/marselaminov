@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marselaminov&repo=github-readme-stats)](https://github.com/marselaminov/github-readme-stats)-->
 
-# Projects:
+<details><summary>*Projects*</summary>
 
 ## Minishell - simple version of shell
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/minishell)](https://github.com/marselaminov/minishell)
@@ -55,4 +55,6 @@ Here are some ideas to get you started:
 
 ## CPP - learning C++
 https://github.com/marselaminov/CPP
+  
+<details>
 
