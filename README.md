@@ -26,23 +26,7 @@ Here are some ideas to get you started:
 
 <details><summary>Projects : </summary>
   
-  <style>
-.filter details + details {
-  margin-top: 1em;
-}
-.filter summary {
-  font-weight: 700;  /* жирный шрифт метки */
-  cursor: pointer;  /* курсор на метке имеет вид руки */
-}
-.filter ul {
-  list-style: none;
-  margin: 1em;
-  padding: 0;
-}
-.filter summary:hover {
-  color:#ff3200;  /* изменение цвета метки при наведении */
-}
-</style>
+ 
   
   ## Minishell - simple version of shell
   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/minishell)](https://github.com/marselaminov/minishell)
@@ -76,4 +60,20 @@ Here are some ideas to get you started:
   
 </details>
   
-  
+   <style>
+.filter details + details {
+  margin-top: 1em;
+}
+.filter summary {
+  font-weight: 700;  /* жирный шрифт метки */
+  cursor: pointer;  /* курсор на метке имеет вид руки */
+}
+.filter ul {
+  list-style: none;
+  margin: 1em;
+  padding: 0;
+}
+.filter summary:hover {
+  color:#ff3200;  /* изменение цвета метки при наведении */
+}
+</style>
