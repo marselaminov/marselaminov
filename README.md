@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marselaminov&repo=github-readme-stats)](https://github.com/marselaminov/github-readme-stats)-->
 
-<details>
+- Projects :
   
   
 
@@ -58,5 +58,5 @@ Here are some ideas to get you started:
 ## CPP - learning C++
 https://github.com/marselaminov/CPP
   
-</details>
+
 
