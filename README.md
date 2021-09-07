@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>
-  # Projects
+  (#Projects)
   </summary>
 
 ## Minishell - simple version of shell
