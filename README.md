@@ -26,22 +26,23 @@ Here are some ideas to get you started:
 
 <details><summary>Projects : </summary>
   
-  summary {
-  display: block;
+  <style>
+.filter details + details {
+  margin-top: 1em;
 }
-
-  summary::-webkit-details-marker {
-  display: none;
+.filter summary {
+  font-weight: 700;  /* жирный шрифт метки */
+  cursor: pointer;  /* курсор на метке имеет вид руки */
 }
-
-summary::before {
-  content: '\25B6';
-  padding-right: 0.5em;
+.filter ul {
+  list-style: none;
+  margin: 1em;
+  padding: 0;
 }
-
-details[open] > summary::before {
-  content: '\25BC';
+.filter summary:hover {
+  color:#ff3200;  /* изменение цвета метки при наведении */
 }
+</style>
   
   ## Minishell - simple version of shell
   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/minishell)](https://github.com/marselaminov/minishell)
