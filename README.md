@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marselaminov&repo=github-readme-stats)](https://github.com/marselaminov/github-readme-stats)-->
 
-<details><summary>Projects : </summary>
+# <details><summary>Projects : </summary>
   
  
   
@@ -60,20 +60,3 @@ Here are some ideas to get you started:
   
 </details>
   
-   <style>
-.filter details + details {
-  margin-top: 1em;
-}
-.filter summary {
-  font-weight: 700;  /* жирный шрифт метки */
-  cursor: pointer;  /* курсор на метке имеет вид руки */
-}
-.filter ul {
-  list-style: none;
-  margin: 1em;
-  padding: 0;
-}
-.filter summary:hover {
-  color:#ff3200;  /* изменение цвета метки при наведении */
-}
-</style>
