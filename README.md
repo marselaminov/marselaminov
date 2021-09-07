@@ -24,7 +24,24 @@ Here are some ideas to get you started:
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marselaminov&repo=github-readme-stats)](https://github.com/marselaminov/github-readme-stats)-->
 
-<details><summary style="font-family: times, serif; font-size:11pt; font-style:italic">Projects : </summary>
+<details><summary>Projects : </summary>
+  
+  summary {
+  display: block;
+}
+
+  summary::-webkit-details-marker {
+  display: none;
+}
+
+summary::before {
+  content: '\25B6';
+  padding-right: 0.5em;
+}
+
+details[open] > summary::before {
+  content: '\25BC';
+}
   
   ## Minishell - simple version of shell
   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/minishell)](https://github.com/marselaminov/minishell)
