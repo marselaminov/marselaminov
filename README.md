@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 <details>
   <summary>
-  (#Projects)
-  </summary>
+  </summary> 
+  # Projects :
 
 ## Minishell - simple version of shell
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/minishell)](https://github.com/marselaminov/minishell)
