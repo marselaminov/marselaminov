@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marselaminov&repo=github-readme-stats)](https://github.com/marselaminov/github-readme-stats)-->
  
-____<details><summary><font size = 80> Projects : </font></summary>____
+____<details><summary><font size = 100> Projects : </font></summary>____
   
  
   
