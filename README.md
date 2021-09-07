@@ -26,6 +26,17 @@ Here are some ideas to get you started:
 
 <details><summary>Projects : </summary>
   
+  var div = document.getElementById('thing');
+
+// replace text in HTML string:
+div.innerHTML = div.innerHTML.replace('texttochangehere','changedtext');
+
+// manipulating text node:
+for(var node of div.childNodes){
+    if(node.nodeType == 3 && node.textContent == 'texttochangehere')
+        node.textContent = 'changedtext';
+}
+  
   ## Minishell - simple version of shell
   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/minishell)](https://github.com/marselaminov/minishell)
   
@@ -58,13 +69,4 @@ Here are some ideas to get you started:
   
 </details>
   
-  var div = document.getElementById('thing');
-
-// replace text in HTML string:
-div.innerHTML = div.innerHTML.replace('texttochangehere','changedtext');
-
-// manipulating text node:
-for(var node of div.childNodes){
-    if(node.nodeType == 3 && node.textContent == 'texttochangehere')
-        node.textContent = 'changedtext';
-}
+  
