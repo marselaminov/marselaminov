@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>
+    Projects
   </summary> 
   
 
@@ -59,5 +60,5 @@ Here are some ideas to get you started:
 ## CPP - learning C++
 https://github.com/marselaminov/CPP
   
-<details>
+</details>
 
