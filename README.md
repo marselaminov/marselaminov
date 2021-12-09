@@ -28,6 +28,12 @@ Here are some ideas to get you started:
   
   # Projects :
   
+  ## Webserver - nginx implementation
+  https://github.com/marselaminov/WebServer
+  
+  ## ft_containers - C++ containers implementation
+  https://github.com/marselaminov/ft_containers
+  
   ## Minishell - simple version of shell
   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/minishell)](https://github.com/marselaminov/minishell)
   
