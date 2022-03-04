@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/legunshi?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/legunshi?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marselaminov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marselaminov&repo=github-readme-stats)](https://github.com/marselaminov/github-readme-stats)-->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marselaminov&repo=github-readme-stats)](https://github.com/marselaminov/github-readme-stats)
  
-<!--____<details open><summary><font size = 100> Projects : </font></summary>____-->
+<details open><summary><font size = 100> Projects : </font></summary>
   
   # Projects :
   
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/Libft)](https://github.com/marselaminov/libft)
   
   ## CPP - learning C++
-  https://github.com/marselaminov/CPP -->
+  https://github.com/marselaminov/CPP
   
-<!--</details>-->
+</details>
   
