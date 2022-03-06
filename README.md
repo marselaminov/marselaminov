@@ -10,7 +10,7 @@
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marselaminov&repo=github-readme-stats)](https://github.com/marselaminov/github-readme-stats) -->
  
-<details open><summary><font size = 100> Projects : </font></summary>
+<!-- <details open><summary><font size = 100> Projects : </font></summary>
   
   # Projects :
   
@@ -47,5 +47,5 @@
   ## CPP - learning C++
   https://github.com/marselaminov/CPP
   
-</details>
+</details> -->
   
