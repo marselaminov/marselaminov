@@ -2,10 +2,11 @@
 ### Welcome to my github account! 
 ### I'm student of Programming School 21 (L'École 42)
 ## [My CV](https://github.com/marselaminov/CV/blob/main/CV%20%D0%9C%D0%B0%D1%80%D1%81%D0%B5%D0%BB%D1%8C%20%D0%90%D0%BC%D0%B8%D0%BD%D0%BE%D0%B2.pdf)
-<!-- [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/legunshi?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/legunshi?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marselaminov&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marselaminov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marselaminov&repo=github-readme-stats)](https://github.com/marselaminov/github-readme-stats) -->
  
